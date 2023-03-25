@@ -1,0 +1,19 @@
+{
+  "name": "clone-nft-collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "follow-redirects": "^1.15.2",
+    "yargs": "^17.7.1"
+  },
+  "bin": {
+    "clone-collection": "index.js"
+  }
+}
