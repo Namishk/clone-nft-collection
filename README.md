@@ -1,5 +1,3 @@
-Sure! Here's an example README file you could use for the code you provided:
-
 # Magic Eden Collection Listings
 
 This code retrieves listings from a collection on Magic Eden based on the collection name provided as an argument.
