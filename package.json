@@ -15,5 +15,9 @@
   },
   "bin": {
     "clone-collection": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Namishk/clone-nft-collection.git"
   }
 }
