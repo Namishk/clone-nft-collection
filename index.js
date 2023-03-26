@@ -76,8 +76,8 @@ async function generateMetadata(response) {
     if (err) {
       return console.log(err);
     }
-    console.log("The file was saved!");
   });
+  console.log("Done creating metadata for " + o.length + " NFTs");
 }
 
 getCollection();
